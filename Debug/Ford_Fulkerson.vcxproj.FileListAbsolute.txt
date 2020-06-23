@@ -1,0 +1,4 @@
+C:\Users\Света\Desktop\kr\Debug\Ford_Fulkerson.exe
+C:\Users\Света\Desktop\kr\Debug\Ford_Fulkerson.pdb
+C:\Users\Света\Desktop\kr1\Debug\Ford_Fulkerson.exe
+C:\Users\Света\Desktop\kr1\Debug\Ford_Fulkerson.pdb
