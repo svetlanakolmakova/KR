@@ -1,0 +1,3 @@
+﻿  UnitTestForFordFulkerson.cpp
+C:\Users\slava\Desktop\Ford_Fulkerson\Flows.h(106,23): warning C4018:  <: несоответствие типов со знаком и без знака
+  UnitTestForFordFulkerson.vcxproj -> C:\Users\slava\Desktop\Ford_Fulkerson\Debug\UnitTestForFordFulkerson.dll
